@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://yassirelguermah.com/posts/</loc>
     <lastmod>2025-04-06T13:44:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/what-makes-famitou-happy/</loc>
+    <loc>https://yassirelguermah.com/posts/what-makes-famitou-happy/</loc>
     <lastmod>2025-04-06T13:44:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://yassirelguermah.com/</loc>
     <lastmod>2025-04-06T13:44:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://yassirelguermah.com/contact/</loc>
     <lastmod>2025-04-06T13:17:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://yassirelguermah.com/about/</loc>
     <lastmod>2025-04-06T13:17:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://yassirelguermah.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://yassirelguermah.com/tags/</loc>
   </url>
 </urlset>

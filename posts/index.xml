@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Yassir Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://yassirelguermah.com/posts/</link>
     <description>Recent content in Posts on Yassir Blog</description>
     <image>
       <title>Yassir Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://yassirelguermah.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yassirelguermah.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Apr 2025 13:44:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yassirelguermah.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Makes Famitou Happy ?</title>
-      <link>http://localhost:1313/posts/what-makes-famitou-happy/</link>
+      <link>https://yassirelguermah.com/posts/what-makes-famitou-happy/</link>
       <pubDate>Sun, 06 Apr 2025 13:44:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/what-makes-famitou-happy/</guid>
+      <guid>https://yassirelguermah.com/posts/what-makes-famitou-happy/</guid>
       <description>In depth dive into fam fam world</description>
     </item>
   </channel>
